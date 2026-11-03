@@ -256,6 +256,8 @@ New Jersey
 
 [Texas A&M University](http://www.physics.tamu.edu/)
 
+[University at Albany, State University of New York](https://www.albany.edu/physics/string-theory)
+
 [University of California at Berkeley](http://www.physics.berkeley.edu/)
 
 [University of California at Los Angeles](http://www.physics.ucla.edu/graduate/gradprog.html)
